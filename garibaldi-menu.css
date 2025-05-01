@@ -1,9 +1,3 @@
-@font-face {
-  font-family: 'Poppins';
-  src: url('https://Natalie-Hueman.github.io/my-css-host/Satoshi-Variable.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
 
 @font-face {
   font-family: 'Satoshi-Variable';
@@ -19,7 +13,7 @@
 }
 
 #singleplatform {
-  font-family: 'Poppins'!important;
+  font-family: 'Satoshi-Variable'!important;
   background-color:red!important;
 }
 
