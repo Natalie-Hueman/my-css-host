@@ -8,5 +8,9 @@
 }
 
 h2 {
-  color: red;
+  color: red!important;
+}
+
+#singleplatform .menus .menu .section>.title {
+  color: red!important;
 }
