@@ -29,9 +29,8 @@
   color: blue!important;
 }
 
-#singleplatform {
+#singleplatform,  .description text {
   font-family: 'Satoshi-Variable'!important;
-  background-color:red!important;
 }
 
 #singleplatform .menus {
