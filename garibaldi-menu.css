@@ -27,14 +27,15 @@
 
 #singleplatform h3 {
   color: blue!important;
+  font-size:2rem!important;
 }
 
-#singleplatform,  .description text {
+#singleplatform,  #singleplatform .menus .menu .section {
   font-family: 'Satoshi-Variable'!important;
 }
 
 #singleplatform .menus {
-  background-color:red!important;
+  background-color:transparent!important;
 }
 
 h2 {
