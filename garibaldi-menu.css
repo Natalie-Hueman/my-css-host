@@ -32,6 +32,7 @@
 
 #singleplatform,  #singleplatform .menus .menu .section {
   font-family: 'Satoshi-Variable'!important;
+  letter-spacing: 0.5px!important;
 }
 
 #singleplatform .menus {
