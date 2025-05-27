@@ -80,5 +80,7 @@ width: 80% !important;
 }
 
 #singleplatform .leaders li {
-    background: #F9F8F5 !important;
+  background: #F9F8F5 !important;
+  background-color: #F9F8F5 !important;
+  display: inline-block !important; /* optional: helps if "inline" is breaking layout */
 }
