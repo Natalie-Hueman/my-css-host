@@ -74,7 +74,7 @@ width: 80% !important;
 .menu-name {
   transition: 0.5s ease !important;
 
-.menu-name:hover {
+.menu-name.clickable:hover {
   background-color: #E6E9E7 !important;
 }
 
