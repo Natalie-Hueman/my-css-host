@@ -71,3 +71,6 @@ h4.item-title {
 .menu-name:hover {
   background-color: #E6E9E7 !important;
 }
+
+#singleplatform .leaders li {
+  background-color: transparent !important;
