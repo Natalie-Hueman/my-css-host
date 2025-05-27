@@ -37,7 +37,11 @@
 
 #singleplatform .menus {
   background-color:transparent!important;
+  border: 0px solid!important;
 }
+
+#singleplatform .menus .menu .section>.title {
+  border-bottom: 1px solid #DDDDDD!important;
 
 h2 {
   color: red!important;
