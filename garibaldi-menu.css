@@ -27,7 +27,7 @@
 
 #singleplatform h3 {
   color: #5A747F!important;
-  font-size:2rem!important;
+  font-size: 2rem!important;
 }
 
 #singleplatform,  #singleplatform .menus .menu .section {
@@ -41,15 +41,27 @@
 }
 
 #singleplatform .menus .menu .section>.title {
-  background-color:transparent!important;
-  border-bottom: 1px solid #DDDDDD!important;
-}
-
-h2 {
-  color: red!important;
-}
-
-#singleplatform .menus .menu .section>.title {
-  color: red!important;
+  background-color:transparent !important;
+  border-bottom: 1px solid #DDDDDD !important;
   font-family: 'Boska-Medium'!important;
 }
+
+h2.menu-title {
+  font-family: 'Boska-Medium' !important;
+  font-size: 1.5rem !important;
+}
+
+h4.item-title {
+  font-family: 'Boska-Medium' !important;
+   font-size: 1.35rem !important;
+}
+
+#singleplatform .menus .header .nav-row .dropdown {
+  background-color: #F9F8F5 !important;
+  border-left: 1px solid #DDDDDD !important;
+  border-right: 1px solid #DDDDDD !important;
+  border-bottom 1px solid #DDDDDD !important;
+  border-top: 1px solid #DDDDDD !important;
+  margin-top: 20px !important;
+}
+
