@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Zodiak';
+  src: url('https://Natalie-Hueman.github.io/my-css-host/Boska-Medium.woff2') format('woff2'),
+       url('https://Natalie-Hueman.github.io/my-css-host/Boska-Medium.woff') format('woff'),
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+#singleplatform h3 {
+  color: #5A747F!important;
+  font-size: 2rem!important;
+}
+
+#singleplatform,  #singleplatform .menus .menu .section {
+  font-family: 'Satoshi-Variable'!important;
+  letter-spacing: 0.5px!important;
+}
+
+#singleplatform .menus {
+  background-color:transparent!important;
+  border: 0px solid!important;
+}
+
+#singleplatform .menus .menu .section>.title {
+  background-color:transparent !important;
+  border-bottom: 1px solid #DDDDDD !important;
+  font-family: 'Boska-Medium'!important;
+}
+
+h2.menu-title {
+  font-family: 'Boska-Medium' !important;
+  font-size: 1.5rem !important;
+}
+
+h4.item-title {
+  font-family: 'Boska-Medium' !important;
+   font-size: 1.35rem !important;
+}
+
+#singleplatform .menus .header .nav-row .dropdown {
+  background-color: #F9F8F5 !important;
+  border-left: 1px solid #DDDDDD !important;
+  border-right: 1px solid #DDDDDD !important;
+  border-bottom 1px solid #DDDDDD !important;
+  border-top: 1px solid #DDDDDD !important;
+  margin-top: 20px !important;
+}
+
+@media (max-width: 767px) {
+#singleplatform .menus .header .nav-row .dropdown {
+width: 80% !important;
+}
+}
+
+.menu-name {
+  transition: 0.5s ease !important;
+}
+
+.menu-name.clickable:hover {
+  background-color: #E6E9E7 !important;
+}
+
+#singleplatform .leaders li, #singleplatform li { {
+  background: #F9F8F5 !important;
+  background-color: #F9F8F5 !important;
+  display: inline-block !important; /* optional: helps if "inline" is breaking layout */
+}
