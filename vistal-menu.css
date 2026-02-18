@@ -8,13 +8,14 @@
 }
 
 #singleplatform h3 {
-  color: #5A747F!important;
+  color: #002030!important;
   font-size: 2rem!important;
 }
 
 #singleplatform,  #singleplatform .menus .menu .section {
-  font-family: 'Satoshi-Variable'!important;
+  font-family: 'Roboto'!important;
   letter-spacing: 0.5px!important;
+  font-weight: 500 !important;
 }
 
 #singleplatform .menus {
@@ -25,16 +26,16 @@
 #singleplatform .menus .menu .section>.title {
   background-color:transparent !important;
   border-bottom: 1px solid #DDDDDD !important;
-  font-family: 'Boska-Medium'!important;
+  font-family: 'Zodiak'!important;
 }
 
 h2.menu-title {
-  font-family: 'Boska-Medium' !important;
+  font-family: 'Zodiak' !important;
   font-size: 1.5rem !important;
 }
 
 h4.item-title {
-  font-family: 'Boska-Medium' !important;
+  font-family: 'Zodiak' !important;
    font-size: 1.35rem !important;
 }
 
@@ -58,11 +59,11 @@ width: 80% !important;
 }
 
 .menu-name.clickable:hover {
-  background-color: #E6E9E7 !important;
+  background-color: #EAEAEA !important;
 }
 
 #singleplatform .leaders li, #singleplatform li { {
-  background: #F9F8F5 !important;
-  background-color: #F9F8F5 !important;
+  background: #F9F7F1!important;
+  background-color: #F9F7F1 !important;
   display: inline-block !important; /* optional: helps if "inline" is breaking layout */
 }
