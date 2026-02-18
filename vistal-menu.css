@@ -7,13 +7,22 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Roboto Light';
+  src: url('https://Natalie-Hueman.github.io/my-css-host/Zodiak-Regular.woff') format('woff2'),
+       url('https://Natalie-Hueman.github.io/my-css-host/Zodiak-Regular.woff2') format('woff'),
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
 #singleplatform h3 {
   color: #002030!important;
   font-size: 2rem!important;
 }
 
 #singleplatform,  #singleplatform .menus .menu .section, #singleplatform .menus .menu .section .items .item .description {
-  font-family: 'Roboto'!important;
+  font-family: 'Roboto Light'!important;
   font-weight: 300 !important;
   letter-spacing: 0px !important;
   font-size: 1.1rem !important;
